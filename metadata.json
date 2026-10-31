@@ -1,0 +1,6 @@
+{
+  "name": "Gridiron Stakes",
+  "description": "Head-to-head Madden 27 match wager hub, 1v1 challenge creator, rule enforcer, live scoreboard, and prize tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
